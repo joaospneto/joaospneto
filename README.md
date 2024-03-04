@@ -12,7 +12,6 @@
    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-Eu sou apaixonado por teclogia. 💻 Estudo progamação desde, pela faculdade Uniesp em João Pessoa - PB.
 
 
 
